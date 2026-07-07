@@ -81,7 +81,7 @@ Columnas del tablero:
 
 Liga del tablero Kanban:
 
-[Pendiente de agregar liga del tablero]
+https://github.com/users/LordEfren369/projects/1/views/1
 
 ## Apartado UML
 
